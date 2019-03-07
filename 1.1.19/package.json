@@ -1,0 +1,22 @@
+{
+  "name": "gm-infobox-v3",
+  "version": "1.1.19",
+  "author": "Gary Little",
+  "description": "An InfoBox behaves like a google.maps.InfoWindow, but it supports several additional properties for advanced styling. An InfoBox can also be used as a map label.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milchundzucker/v3-utility-library.git",
+    "directory": "infobox"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "Infobox"
+  ],
+  "license": "Apache-2.0",
+  "files": [
+    "src/infobox.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
